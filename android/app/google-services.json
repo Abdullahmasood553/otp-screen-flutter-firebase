@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464653744158",
+    "project_id": "phone-firebase-a552a",
+    "storage_bucket": "phone-firebase-a552a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464653744158:android:fdf0f648811a85135a960f",
+        "android_client_info": {
+          "package_name": "com.example.otp_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxe2f8IT_duvRxCtePGtuvIDUJARaUvbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
